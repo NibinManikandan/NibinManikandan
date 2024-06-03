@@ -1,6 +1,6 @@
 <!-- Intro -->
 <h3 align="center">
-  <samp>&gt; Hey there, I am
+  <samp> Hey there, I am
     <b><a target="_blank" href="https://www.linkedin.com/in/asifxohd9207850084/">Nibin M</a></b>
   </samp>
 </h3>
